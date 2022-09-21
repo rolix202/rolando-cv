@@ -274,14 +274,13 @@ body {
   list-style: none;
 }
 .study-list li h4 {
-  font-size: 21px;
+  font-size: 18px;
   margin-bottom: 4px;
+  font-family: 'Open Sans', sans-serif;
 }
 .study-list li p {
-  text-align: justify;
+  opacity: 0.8;
   font-size: 15px;
-  text-indent: 20px;
-  padding-top: 5px;
 }
 .extra-Curricular i {
   color: #7f298c;
@@ -289,4 +288,23 @@ body {
 .darkTheme{
   background-color: rgb(14, 13, 13);
   color: #fff;
+}
+.study-list_2 li{
+  list-style: disc;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+.study-list li .date{
+  font-size: 12px;
+  background-color: #7f298c;
+  color: #fff;
+  padding: 1px 10px;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 50px;
+  opacity: 0.7;
+}
+.study-list li h4 span{
+  font-size: 13px;
+   font-family: 'Open Sans', sans-serif;
+   opacity: 0.8;
 }
