@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: robot-slab;
+  font-family: 'Open Sans', sans-serif;
   font-size: 0.85rem;
   transition: background 0.3s linear;
 }
@@ -147,7 +147,7 @@ body {
   height: 4px;
   background-color: #7f298c;
   position: absolute;
-  right: 63%;
+  right: 68%;
   margin-top: 10px;
 }
 .about h3::after {
@@ -156,7 +156,7 @@ body {
   height: 4px;
   background-color: #7f298c;
   position: absolute;
-  margin-left: 3%;
+  margin-left: 5%;
   margin-top: 10px;
 }
 .about {
@@ -220,9 +220,9 @@ body {
   content: "";
   position: absolute;
   background-color: #7f298c;
-  width: 15%;
+  width: 10%;
   height: 4px;
-  right: 73%;
+  right: 78%;
   margin-left: 3%;
   margin-top: 10px;
 }
